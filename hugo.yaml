@@ -13,7 +13,6 @@ googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX fo
 # Disables warnings
 disableKinds:
 - taxonomy
-- taxonomyTerm
 markup:
   goldmark:
     renderer:
@@ -46,7 +45,7 @@ params:
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: illustrations/coding-5-61.svg
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     clientlogos:
@@ -180,17 +179,19 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/StefMa
+    - link: https://github.com/Batchery
       # Icons are from Font Awesome
       icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
+    - link: https://www.linkedin.com/company/the-batchery
+      icon: linkedin
+    - link: https://www.facebook.com/Batchery
       icon: facebook
-    - link: https://twitter.com/StefMa91
+    - link: https://x.com/TheBatchery
       icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
+    - link: https://www.instagram.com/batchery
+      icon: instagram
+    - link: https://www.tiktok.com/@batchery
+      icon: at
     bulmalogo: true
     quicklinks:
       column1:
