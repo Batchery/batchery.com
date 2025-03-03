@@ -1,6 +1,6 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Batchery
 
 module:
   # uncomment line below for local development of module
@@ -75,7 +75,7 @@ params:
       url: /
  
   - title: Join Us
-    url: /
+    url: https://www.f6s.com/batchery-pragmatic-ai-batch-20/apply
     button: true
   sidebar:
     # Logo (from static/images/logos/___.svg)
@@ -117,36 +117,36 @@ params:
     tiles:
     - title: Pragmatic AI Program
       icon: mouse-globe
-      text: This is some explanatory text that is on two rows
+      text: Gain the knowledge to implement, scale, and differentiate AI in the market.
       url: /
       buttonText: Learn More
     - title: Startup Best Practices
       icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
+      text: Learn how to build, grow, and scale an AI-driven business effectively.
       url: /
       buttonText: Learn More
-    - title: Investor Readiness
+    - title: Funding & Investor Readiness
       icon: plug-cloud
-      text: This is some explanatory text that is on two rows
+      text: We prepare founders to secure funding with a strong strategy, insights, and investor network.
       url: /
       buttonText: Get started
   section2:
     title: What we offer
     subtitle: 
     features:
-    - title: Benefit 1
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Strategic AI Integration
+      text: We help you seamlessly incorporate AI into your business model—ensuring it aligns with market demand, revenue goals, and industry trends.
       # Icon (from static/images/illustrations/icons/___.svg)
       icon: laptop-globe
-    - title: Benefit 2
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Customized AI Roadmap 
+      text: AI implementation isn’t one-size-fits-all. We provide personalized strategies to adapt AI to your business's unique needs and give you a competitive edge.
       icon: doc-sync
-    - title: Benefit 3
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Hands on AI Education
+      text: Access exclusive workshops, expert-led seminars, and real-world case studies covering AI business strategy, data ethics, model scalability, and fundraising tactics.
       icon: mobile-feed
   section3:
     title: Investor Readiness Assessment 
-    subtitle: A roadmap to improvement
+    subtitle: A roadmap to evaluate your startup's strength, funding potential and market positing, giving you a clear roadmap to investor success.
     image: illustrations/mockups/app-mockup.png
     buttonText: Get started
     buttonLink: "#"
