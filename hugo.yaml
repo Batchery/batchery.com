@@ -48,17 +48,18 @@ params:
     image: illustrations/coding-5-61.svg
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
-    clientlogos:
-    - logo: systek
-      url: https://google.com
-    - logo: tribe
-      url: https://stefma.github.io/hugo-fresh/
-    - logo: kromo
-      url: https://github.com/StefMa/hugo-fresh
-    - logo: infinite
-      url: https://hugo-fresh.vercel.app/
-    - logo: gutwork
-      url: https://bulma.io/
+    ## Can update once we obtain sponsors - jasmor
+    #clientlogos:
+    #- logo: systek
+     # url: https://google.com
+    #- logo: tribe
+     # url: https://stefma.github.io/hugo-fresh/
+    #- logo: kromo
+     # url: https://github.com/StefMa/hugo-fresh
+    #- logo: infinite
+      #url: https://hugo-fresh.vercel.app/
+    #- logo: gutwork
+      #url: https://bulma.io/
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: About Us
@@ -137,13 +138,13 @@ params:
     - title: Strategic AI Integration
       text: We help you seamlessly incorporate AI into your business model—ensuring it aligns with market demand, revenue goals, and industry trends.
       # Icon (from static/images/illustrations/icons/___.svg)
-      icon: laptop-globe
+      icon: ai
     - title: Customized AI Roadmap 
       text: AI implementation isn’t one-size-fits-all. We provide personalized strategies to adapt AI to your business's unique needs and give you a competitive edge.
-      icon: doc-sync
+      icon: ai-agent
     - title: Hands on AI Education
       text: Access exclusive workshops, expert-led seminars, and real-world case studies covering AI business strategy, data ethics, model scalability, and fundraising tactics.
-      icon: mobile-feed
+      icon: ai-agent1
   section3:
     title: Investor Readiness Assessment 
     subtitle: A roadmap to evaluate your startup's strength, funding potential and market positing, giving you a clear roadmap to investor success.
