@@ -41,25 +41,24 @@ params:
     # Hero subtitle (optional)
     subtitle: Ignite your startup with AI superpowers. Our AI-powered program harnesses the transformative power of artificial intelligence, propelling your venture to the next level. From ideation to execution, our AI experts will be your co-pilots, unleashing a torrent of innovative solutions and data-driven strategies.
     # Button text
-    buttontext: Our Programs
+    buttontext: More Info
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "https://www.f6s.com/the-batchery/about"
     # Hero image (from static/images/___)
     image: illustrations/coding-5-61.svg
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
-    ## Can update once we obtain sponsors - jasmor
     #clientlogos:
-    #- logo: systek
-     # url: https://google.com
-    #- logo: tribe
-     # url: https://stefma.github.io/hugo-fresh/
-    #- logo: kromo
-     # url: https://github.com/StefMa/hugo-fresh
-    #- logo: infinite
-      #url: https://hugo-fresh.vercel.app/
-    #- logo: gutwork
-      #url: https://bulma.io/
+    #- logo: kapor
+     # url: https://www.kaporcapital.com/
+    #- logo: partech
+     # url: https://partechpartners.com/
+    #- logo: epic
+     # url: https://www.epicvc.com/
+    #- logo: maven
+     # url: https://www.mavenventures.com/
+    #- logo: unshackled
+      #url: https://www.unshackledvc.com/
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: About Us
