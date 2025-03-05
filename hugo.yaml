@@ -64,7 +64,7 @@ params:
   - title: About Us
     url: /
   - title: Programs
-    url: /programs/
+    url: /batchery.com/programs/
   - title: Companies
     sublinks:
     - title: Startup Directory
