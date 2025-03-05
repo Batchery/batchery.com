@@ -64,7 +64,7 @@ params:
   - title: About Us
     url: /
   - title: Programs
-    url: /
+    url: /programs/
   - title: Companies
     sublinks:
     - title: Startup Directory
@@ -147,7 +147,7 @@ params:
   section3:
     title: Investor Readiness Assessment 
     subtitle: A roadmap to evaluate your startup's strength, funding potential and market positing, giving you a clear roadmap to investor success.
-    image: illustrations/mockups/app-mockup.png
+    image: illustrations/mockups/investor-readiness.png
     buttonText: Get started
     buttonLink: "#"
   section4:
@@ -174,7 +174,7 @@ params:
     # method: POST
   footer:
     # Logo (from static/images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: batcherylogo.png
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
@@ -195,7 +195,7 @@ params:
     bulmalogo: true
     quicklinks:
       column1:
-        title: "Product"
+        title: "Programs"
         links:
         - text: Discover features
           link: /
