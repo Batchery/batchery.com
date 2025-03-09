@@ -64,7 +64,7 @@ params:
   - title: About Us
     url: /
   - title: Programs
-    url: /programs/
+    url: /program/pragmatic_ai
   - title: Companies
     sublinks:
     - title: Startup Directory
