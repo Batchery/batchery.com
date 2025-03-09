@@ -1,7 +1,8 @@
 ---
 title: "Pragmatic AI"
 date: 2025-03-06T07:49:55-08:00
-author: "[Graham Hunter](https://www.office.com/search?q=Graham+Hunter&EntityRepresentationId=978a8417-eeda-4875-a955-50b44a06c8e9)"
+menu: "main"
+weight: 5-
 ---
 
 We meet a lot of startup founders that are confused by AI. There is a lot of buzz out there, constant jargon, and it’s tough to figure out how it all applies to your great startup idea.
