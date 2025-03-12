@@ -1,4 +1,5 @@
-baseURL: https://batchery.github.io/batchery.com
+baseURL: https://batchery.github.io/batchery.com/
+
 languageCode: en-us
 title: Batchery
 
@@ -52,7 +53,6 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Program
-    url: /program
     sublinks:
     - title: Overview
       url: /program/overview
